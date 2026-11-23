@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,workbuddy.ai
+  - DOMAIN-SUFFIX,workbuddy.cn
+  - DOMAIN-SUFFIX,workbuddy.link
+  - DOMAIN,api.workbuddy.ai
+  - DOMAIN,cdn.workbuddy.ai
